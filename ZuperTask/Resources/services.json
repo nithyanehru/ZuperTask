@@ -1,0 +1,90 @@
+[
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440000",
+    "title": "Office Space Revamp",
+    "customerName": "XYZ Industries",
+    "description": "Transform your office with sleek, contemporary furnishings.",
+    "status": "Planned",
+    "priority": "High",
+    "scheduledDate": "2026-05-09T15:00:00Z",
+    "location": "Maple Avenue, Seattle, WA 98101",
+    "notes": "Ensure all furniture is removed before renovation begins and concentrate on neatness"
+  },
+  {
+    "id": "123e4567-e89b-12d3-a456-426614174000",
+    "title": "Modern Workspace Makeover",
+    "customerName": "Acme Corp",
+    "description": "Revitalize your workspace with stylish, modern decor that inspires creativity.",
+    "status": "Scheduled",
+    "priority": "Medium",
+    "scheduledDate": "2026-05-11T15:30:00Z",
+    "location": "Downtown Seattle",
+    "notes": "Confirm layout and decor."
+  },
+  {
+    "id": "9a7b3300-1c2d-4f5a-9b8c-123456789abc",
+    "title": "Contemporary Office Transformation",
+    "customerName": "Acme Corp",
+    "description": "Revitalize your workspace with stylish, modern decor that inspires creativity.",
+    "status": "Approved",
+    "priority": "Low",
+    "scheduledDate": "2026-05-10T15:30:00Z",
+    "location": "Downtown Seattle",
+    "notes": "Confirm layout and decor."
+  },
+  {
+    "id": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+    "title": "Modern Workspace Haul",
+    "customerName": "Acme Corp",
+    "description": "Revitalize your workspace with stylish, modern decor that inspires creativity.",
+    "status": "Scheduled",
+    "priority": "High",
+    "scheduledDate": "2026-05-08T15:30:00Z",
+    "location": "Downtown Seattle",
+    "notes": "Confirm layout and decor."
+  },
+  {
+    "id": "c9bf9e57-1685-4c89-bafb-ff5af830be8a",
+    "title": "Office Space Revamp",
+    "customerName": "XYZ Industries",
+    "description": "Transform your office with sleek, contemporary furnishings.",
+    "status": "Planned",
+    "priority": "High",
+    "scheduledDate": "2026-05-09T15:00:00Z",
+    "location": "Maple Avenue, Seattle, WA 98101",
+    "notes": "Ensure all furniture is removed before renovation begins and concentrate on neatness"
+  },
+  {
+    "id": "e902893a-9d22-3c7e-a7b8-d6e313b71d9f",
+    "title": "Modern Workspace Theatre",
+    "customerName": "XYZ Industries",
+    "description": "Revitalize your workspace with stylish, modern decor that inspires creativity.",
+    "status": "Scheduled",
+    "priority": "Low",
+    "scheduledDate": "2026-05-11T15:30:00Z",
+    "location": "Downtown Seattle",
+    "notes": "Confirm layout and decor."
+  },
+  {
+    "id": "7d444840-9dc0-11d1-b245-5ffdce74fad2",
+    "title": "Contemporary Office Transformation",
+    "customerName": "XYZ Industries",
+    "description": "Revitalize your workspace with stylish, modern decor that inspires creativity.",
+    "status": "Approved",
+    "priority": "Medium",
+    "scheduledDate": "2026-05-10T15:30:00Z",
+    "location": "Downtown Seattle",
+    "notes": "Confirm layout and decor."
+  },
+  {
+    "id": "16fd2706-8baf-433b-82eb-8c7fada847da",
+    "title": "Modern Workspace Library",
+    "customerName": "XYZ Industries",
+    "description": "Revitalize your workspace with stylish, modern decor that inspires creativity.",
+    "status": "Scheduled",
+    "priority": "High",
+    "scheduledDate": "2026-05-08T15:30:00Z",
+    "location": "Downtown Seattle",
+    "notes": "Confirm layout and decor."
+  }
+]

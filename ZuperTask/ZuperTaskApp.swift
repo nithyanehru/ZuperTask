@@ -2,7 +2,7 @@
 //  ZuperTaskApp.swift
 //  ZuperTask
 //
-//  Created by Nithya Nehru on 09/05/26.
+//  Created by Nithya Nehru on 10/05/26.
 //
 
 import SwiftUI
@@ -11,7 +11,7 @@ import SwiftUI
 struct ZuperTaskApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ServicesListView()
         }
     }
 }
