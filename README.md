@@ -1,8 +1,8 @@
-ZuperTask /n
+
 ZuperTask is a SwiftUI iOS application built using MVVM architecture, Combine framework, and native iOS patterns.
 It demonstrates modern iOS development practices including search with debounce, pull‑to‑refresh, Apple Maps integration, and Tabler Icons via Swift Package Manager (SPM).
 
-🚀 Features
+🚀 <b>Features</b>
 MVVM Architecture — clean separation of concerns with Models, ViewModels, and Views.
 
 Combine Search — reactive search with debounce for smooth user experience.
